@@ -1,9 +1,9 @@
-<!-- Upload this README.md and the assets folder to namethzz/namethzz. -->
+<!-- Upload README.md, nameth-header.svg, and nameth-header-mobile.svg together to the repository root. -->
 
 <p>
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/nameth-header-mobile.svg">
-    <img src="./assets/nameth-header.svg" width="100%" alt="Nameth Wongmongkol — Data Analytics & Full-Stack Development">
+    <source media="(max-width: 600px)" srcset="./nameth-header-mobile.svg">
+    <img src="./nameth-header.svg" width="100%" alt="Nameth Wongmongkol — Data Analytics & Full-Stack Development">
   </picture>
 </p>
 
