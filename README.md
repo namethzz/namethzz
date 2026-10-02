@@ -82,18 +82,73 @@ A supplement-store web application covering **product discovery, shopping carts,
 | **Data & analysis** | Python · Pandas · NumPy · SQL · Looker Studio |
 | **Web development** | React · JavaScript · Node.js · C# · ASP.NET Core MVC |
 | **Databases** | MySQL · SQL Server · MongoDB · ChromaDB · SQLite |
-| **Workflow** | Git · Docker · Postman · n8n · Google Colab |
 
-**Currently learning** &nbsp; Excel for data analysis · SQL · Data visualization
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-101A24?style=for-the-badge&amp;logo=git&amp;logoColor=9AD9BF" alt="Git" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-101A24?style=for-the-badge&amp;logo=docker&amp;logoColor=9AD9BF" alt="Docker" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Postman-101A24?style=for-the-badge&amp;logo=postman&amp;logoColor=9AD9BF" alt="Postman" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/n8n-101A24?style=for-the-badge&amp;logo=n8n&amp;logoColor=9AD9BF" alt="n8n" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Colab-101A24?style=for-the-badge&amp;logo=googlecolab&amp;logoColor=9AD9BF" alt="Google Colab" />
+</p>
 
 <br>
 
----
+## Currently learning
+
+- **Excel** — Spreadsheets and data analysis
+- **SQL** — Queries and database fundamentals
+- **Data visualization** — Clear charts and dashboards
+
+<br>
+
+## GitHub Stats
 
 <p align="center">
-  <strong>Have an internship opportunity or a project in mind?</strong>
-  <br><br>
-  <a href="mailto:nameth.won@spumail.net">nameth.won@spumail.net ↗</a>
-  <br><br>
-  <sub>Nameth Wongmongkol &nbsp; / &nbsp; <a href="https://github.com/namethzz">@namethzz</a></sub>
+  <a href="https://github.com/namethzz">
+    <img width="420" src="https://github-stats-extended.vercel.app/api?username=namethzz&amp;show_icons=true&amp;hide_rank=true&amp;card_width=420&amp;line_height=20&amp;text_bold=false&amp;custom_title=GitHub%20Activity&amp;bg_color=101A24&amp;title_color=9AD9BF&amp;text_color=BBC9CF&amp;icon_color=9AD9BF&amp;border_color=26333E&amp;border_radius=16&amp;hide_border=false&amp;disable_animations=true" alt="Nameth's public GitHub activity" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/namethzz?tab=repositories">
+    <img width="360" src="https://github-stats-extended.vercel.app/api/top-langs/?username=namethzz&amp;layout=compact&amp;langs_count=6&amp;card_width=360&amp;custom_title=Most%20Used%20Languages&amp;bg_color=101A24&amp;title_color=9AD9BF&amp;text_color=BBC9CF&amp;icon_color=9AD9BF&amp;border_color=26333E&amp;border_radius=16&amp;hide_border=false&amp;disable_animations=true" alt="Language usage in Nameth's public repositories" />
+  </a>
 </p>
+
+<p align="center">
+  <sub>Activity and language usage across my public repositories.</sub>
+</p>
+
+<br>
+
+## Let's connect
+
+<p align="center">
+  <strong>Let's build something useful.</strong>
+  <br>
+  <sub>Open to internships in data analytics and software development.</sub>
+</p>
+
+<p align="center">
+  <a href="mailto:nameth.won@spumail.net">
+    <img src="https://img.shields.io/badge/Email_me-9AD9BF?style=for-the-badge&amp;logo=gmail&amp;logoColor=0B1118" alt="Email Nameth" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/namethzz?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_projects-101A24?style=for-the-badge&amp;logo=github&amp;logoColor=9AD9BF" alt="Explore Nameth's projects" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    <a href="mailto:nameth.won@spumail.net">nameth.won@spumail.net</a>
+    &nbsp; / &nbsp;
+    <a href="https://github.com/namethzz">@namethzz</a>
+  </sub>
+</p>
+
+<hr>
