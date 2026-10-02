@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="332" viewBox="0 0 960 332" fill="none">
+  <title>Nameth Wongmongkol</title>
+  <desc>Data Analytics and Full-Stack Development. A navy and mint profile banner.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="332" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101A24"/>
+      <stop offset="1" stop-color="#0B1118"/>
+    </linearGradient>
+    <linearGradient id="arc" x1="616" y1="28" x2="910" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9AD9BF" stop-opacity=".68"/>
+      <stop offset="1" stop-color="#9AD9BF" stop-opacity=".04"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="960" height="332" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="960" height="332" rx="20" fill="url(#background)"/>
+    <rect x=".5" y=".5" width="959" height="331" rx="19.5" stroke="#26333E"/>
+    <path d="M613 0V332M661 0V332M709 0V332M757 0V332M805 0V332M853 0V332M901 0V332M949 0V332M604 28H960M604 76H960M604 124H960M604 172H960M604 220H960M604 268H960M604 316H960" stroke="#94B6A5" stroke-opacity=".045"/>
+    <circle cx="806" cy="168" r="154" stroke="url(#arc)"/>
+    <circle cx="806" cy="168" r="112" stroke="url(#arc)"/>
+    <circle cx="806" cy="168" r="70" stroke="url(#arc)"/>
+    <path d="M714 233L759 188L806 209L861 129L901 145" stroke="#9AD9BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="759" cy="188" r="4" fill="#9AD9BF"/>
+    <circle cx="806" cy="209" r="4" fill="#9AD9BF"/>
+    <circle cx="861" cy="129" r="5" fill="#9AD9BF"/>
+    <circle cx="714" cy="233" r="3" fill="#9AD9BF"/>
+    <circle cx="901" cy="145" r="3" fill="#9AD9BF"/>
+    <path d="M704 82L677 103L704 124M896 212L923 233L896 254" stroke="#78968C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <circle cx="59" cy="49" r="3" fill="#9AD9BF"/>
+      <text x="74" y="54" fill="#9AD9BF" font-size="12" font-weight="600" letter-spacing="2.4">NAMETHZZ / PORTFOLIO</text>
+      <text x="56" y="132" fill="#F3F6F5" font-size="62" font-weight="600" letter-spacing="-2">Nameth</text>
+      <text x="56" y="200" fill="#F3F6F5" font-size="62" font-weight="600" letter-spacing="-2">Wongmongkol<tspan fill="#9AD9BF">.</tspan></text>
+      <path d="M56 228H112" stroke="#9AD9BF" stroke-width="2"/>
+      <text x="56" y="266" fill="#BBC9CF" font-size="19" letter-spacing=".2">Data Analytics &amp; Full-Stack Development</text>
+      <text x="56" y="303" fill="#687D88" font-size="10" font-weight="500" letter-spacing="1.9">COMPUTER SCIENCE STUDENT · THAILAND</text>
+    </g>
+  </g>
+</svg>

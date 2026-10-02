@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="424" viewBox="0 0 640 424" fill="none">
+  <title>Nameth Wongmongkol</title>
+  <desc>Data Analytics and Full-Stack Development. Profile banner for narrow screens.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="640" y2="424" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101A24"/>
+      <stop offset="1" stop-color="#0B1118"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="640" height="424" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="640" height="424" rx="20" fill="url(#background)"/>
+    <rect x=".5" y=".5" width="639" height="423" rx="19.5" stroke="#26333E"/>
+    <circle cx="606" cy="66" r="120" stroke="#9AD9BF" stroke-opacity=".13"/>
+    <circle cx="606" cy="66" r="78" stroke="#9AD9BF" stroke-opacity=".16"/>
+    <circle cx="606" cy="66" r="36" stroke="#9AD9BF" stroke-opacity=".2"/>
+    <path d="M523 110L559 74L588 92L625 38" stroke="#9AD9BF" stroke-opacity=".5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="559" cy="74" r="3" fill="#9AD9BF" fill-opacity=".6"/>
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <circle cx="47" cy="50" r="3" fill="#9AD9BF"/>
+      <text x="62" y="55" fill="#9AD9BF" font-size="14" font-weight="600" letter-spacing="2.5">NAMETHZZ / PORTFOLIO</text>
+      <text x="44" y="151" fill="#F3F6F5" font-size="65" font-weight="600" letter-spacing="-2">Nameth</text>
+      <text x="44" y="223" fill="#F3F6F5" font-size="65" font-weight="600" letter-spacing="-2">Wongmongkol<tspan fill="#9AD9BF">.</tspan></text>
+      <path d="M44 264H100" stroke="#9AD9BF" stroke-width="2"/>
+      <text x="44" y="307" fill="#BBC9CF" font-size="26">Data Analytics &amp;</text>
+      <text x="44" y="343" fill="#BBC9CF" font-size="26">Full-Stack Development</text>
+      <text x="44" y="391" fill="#687D88" font-size="12" font-weight="500" letter-spacing="1.8">COMPUTER SCIENCE STUDENT · THAILAND</text>
+    </g>
+  </g>
+</svg>
