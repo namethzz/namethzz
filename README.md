@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nameth Wongmongkol 👋</h1>
-<h3 align="center">Data Analyst Intern Candidate | Full-Stack Developer | CS Student</h3>
+<h3 align="center">Data Analyst Intern Candidate | Full-Stack Developer | CSI Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+useful+insights;Full-Stack+Developer+%7C+Aspiring+Data+Analyst;SQL+%C2%B7+Python+%C2%B7+React+%C2%B7+n8n" alt="Typing SVG" />
