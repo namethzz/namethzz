@@ -58,6 +58,7 @@ The five projects below run from my second year to my fourth. I went back to the
       <p>Find people to play football with. Players search open games by date, budget and field, then ask to join. Hosts pick a mode (open "buffet" or fixed positions GK/DF/MF/FW), approve requests and chat with the team. Field owners list their own pitches.</p>
       <p>Google and Facebook sign-in, account deletion in one MongoDB transaction, and 101 automated tests that run on every pull request.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>GitHub Actions</code></p>
+      <p><a href="https://kickhub-web.onrender.com/home">Live site ↗</a></p>
     </td>
   </tr>
 </table>
