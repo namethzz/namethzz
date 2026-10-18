@@ -1,30 +1,126 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="424" viewBox="0 0 640 424" fill="none">
-  <title>Nameth Wongmongkol</title>
-  <desc>Data Analytics and Full-Stack Development. Profile banner for narrow screens.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="460" viewBox="0 0 640 460" fill="none" role="img" aria-labelledby="t d">
+  <title id="t">Nameth Wongmongkol</title>
+  <desc id="d">Profile banner. Data and AI engineering, full-stack. A small diagram shows raw files becoming clean rows, an embedding index, and a chat answer.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="640" y2="424" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#101A24"/>
-      <stop offset="1" stop-color="#0B1118"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="640" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14120F"/>
+      <stop offset="1" stop-color="#0E0D0B"/>
     </linearGradient>
-    <clipPath id="bounds"><rect width="640" height="424" rx="20"/></clipPath>
+    <clipPath id="clip"><rect width="640" height="460" rx="18"/></clipPath>
   </defs>
-  <g clip-path="url(#bounds)">
-    <rect width="640" height="424" rx="20" fill="url(#background)"/>
-    <rect x=".5" y=".5" width="639" height="423" rx="19.5" stroke="#26333E"/>
-    <circle cx="606" cy="66" r="120" stroke="#9AD9BF" stroke-opacity=".13"/>
-    <circle cx="606" cy="66" r="78" stroke="#9AD9BF" stroke-opacity=".16"/>
-    <circle cx="606" cy="66" r="36" stroke="#9AD9BF" stroke-opacity=".2"/>
-    <path d="M523 110L559 74L588 92L625 38" stroke="#9AD9BF" stroke-opacity=".5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="559" cy="74" r="3" fill="#9AD9BF" fill-opacity=".6"/>
-    <g font-family="'Segoe UI', Arial, sans-serif">
-      <circle cx="47" cy="50" r="3" fill="#9AD9BF"/>
-      <text x="62" y="55" fill="#9AD9BF" font-size="14" font-weight="600" letter-spacing="2.5">NAMETHZZ / PORTFOLIO</text>
-      <text x="44" y="151" fill="#F3F6F5" font-size="65" font-weight="600" letter-spacing="-2">Nameth</text>
-      <text x="44" y="223" fill="#F3F6F5" font-size="65" font-weight="600" letter-spacing="-2">Wongmongkol<tspan fill="#9AD9BF">.</tspan></text>
-      <path d="M44 264H100" stroke="#9AD9BF" stroke-width="2"/>
-      <text x="44" y="307" fill="#BBC9CF" font-size="26">Data Analytics &amp;</text>
-      <text x="44" y="343" fill="#BBC9CF" font-size="26">Full-Stack Development</text>
-      <text x="44" y="391" fill="#687D88" font-size="12" font-weight="500" letter-spacing="1.8">COMPUTER SCIENCE STUDENT · THAILAND</text>
+  <g clip-path="url(#clip)">
+    <rect width="640" height="460" fill="url(#bg)"/>
+    <rect x=".5" y=".5" width="639" height="459" rx="17.5" stroke="#2A2620"/>
+    <rect x="104.4" y="105.6" width="10" height="5" rx="1" fill="#C5BDAF" fill-opacity="0.35" transform="rotate(-22 109.4 108.1)"/>
+    <rect x="112.4" y="111.4" width="6" height="4" rx="1" fill="#C5BDAF" fill-opacity="0.7" transform="rotate(-14 115.4 113.4)"/>
+    <rect x="56.1" y="126.3" width="5" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.7" transform="rotate(33 58.6 129.3)"/>
+    <rect x="131.3" y="110.2" width="6" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.25" transform="rotate(23 134.3 113.2)"/>
+    <rect x="52.4" y="62.2" width="6" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.25" transform="rotate(19 55.4 65.2)"/>
+    <rect x="87.6" y="108.2" width="6" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.35" transform="rotate(10 90.6 111.2)"/>
+    <rect x="110.7" y="114.1" width="10" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.5" transform="rotate(-7 115.7 117.1)"/>
+    <rect x="117.6" y="136.4" width="5" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.5" transform="rotate(-13 120.1 139.4)"/>
+    <rect x="74.7" y="83.2" width="5" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.25" transform="rotate(-7 77.2 86.2)"/>
+    <rect x="157.0" y="91.2" width="5" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.25" transform="rotate(-20 159.5 94.2)"/>
+    <rect x="167.8" y="63.5" width="10" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.7" transform="rotate(-6 172.8 66.5)"/>
+    <rect x="119.6" y="75.7" width="8" height="5" rx="1" fill="#C5BDAF" fill-opacity="0.25" transform="rotate(-13 123.6 78.2)"/>
+    <rect x="46.0" y="93.2" width="5" height="4" rx="1" fill="#C5BDAF" fill-opacity="0.35" transform="rotate(14 48.5 95.2)"/>
+    <rect x="45.5" y="97.7" width="10" height="4" rx="1" fill="#C5BDAF" fill-opacity="0.35" transform="rotate(-4 50.5 99.7)"/>
+    <rect x="69.5" y="119.9" width="6" height="5" rx="1" fill="#C5BDAF" fill-opacity="0.7" transform="rotate(-27 72.5 122.4)"/>
+    <rect x="100.2" y="76.8" width="8" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.5" transform="rotate(35 104.2 79.8)"/>
+    <rect x="46.6" y="74.7" width="12" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.25" transform="rotate(-32 52.6 77.7)"/>
+    <rect x="63.5" y="95.8" width="5" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.5" transform="rotate(23 66.0 98.8)"/>
+    <rect x="95.6" y="65.4" width="6" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.35" transform="rotate(-34 98.6 68.4)"/>
+    <rect x="93.2" y="110.8" width="6" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.7" transform="rotate(23 96.2 113.8)"/>
+    <rect x="62.1" y="91.2" width="6" height="5" rx="1" fill="#C5BDAF" fill-opacity="0.35" transform="rotate(22 65.1 93.7)"/>
+    <rect x="77.3" y="74.9" width="12" height="4" rx="1" fill="#C5BDAF" fill-opacity="0.7" transform="rotate(27 83.3 76.9)"/>
+    <rect x="124.6" y="94.1" width="5" height="4" rx="1" fill="#C5BDAF" fill-opacity="0.25" transform="rotate(1 127.1 96.1)"/>
+    <rect x="78.1" y="120.5" width="10" height="5" rx="1" fill="#C5BDAF" fill-opacity="0.7" transform="rotate(23 83.1 123.0)"/>
+    <rect x="123.6" y="83.5" width="6" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.25" transform="rotate(-26 126.6 86.5)"/>
+    <rect x="108.0" y="113.4" width="12" height="6" rx="1" fill="#C5BDAF" fill-opacity="0.25" transform="rotate(-15 114.0 116.4)"/>
+    <path d="M173.5 65.9 C198.1 65.9 194.1 104.0 204.1 104.0" stroke="#7E776B" stroke-opacity=".55" stroke-width="1"/>
+    <path d="M173.5 85.0 C198.1 85.0 194.1 104.0 204.1 104.0" stroke="#7E776B" stroke-opacity=".55" stroke-width="1"/>
+    <path d="M173.5 104.0 C198.1 104.0 194.1 104.0 204.1 104.0" stroke="#7E776B" stroke-opacity=".55" stroke-width="1"/>
+    <path d="M173.5 123.0 C198.1 123.0 194.1 104.0 204.1 104.0" stroke="#7E776B" stroke-opacity=".55" stroke-width="1"/>
+    <path d="M173.5 142.1 C198.1 142.1 194.1 104.0 204.1 104.0" stroke="#7E776B" stroke-opacity=".55" stroke-width="1"/>
+    <circle cx="204.1" cy="104.0" r="3.5" fill="#F2A93B"/>
+    <rect x="220.6" y="74.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="245.7" y="74.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="270.8" y="74.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="295.9" y="74.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="321.0" y="74.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="220.6" y="85.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="245.7" y="85.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="270.8" y="85.0" width="21.1" height="5" rx="1.5" fill="#F2A93B" fill-opacity="0.95"/>
+    <rect x="295.9" y="85.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="321.0" y="85.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="220.6" y="96.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="245.7" y="96.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="270.8" y="96.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="295.9" y="96.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="321.0" y="96.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="220.6" y="107.0" width="21.1" height="5" rx="1.5" fill="#F2A93B" fill-opacity="0.95"/>
+    <rect x="245.7" y="107.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="270.8" y="107.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="295.9" y="107.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="321.0" y="107.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="220.6" y="118.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="245.7" y="118.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="270.8" y="118.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="295.9" y="118.0" width="21.1" height="5" rx="1.5" fill="#F2A93B" fill-opacity="0.95"/>
+    <rect x="321.0" y="118.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="220.6" y="129.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="245.7" y="129.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="270.8" y="129.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="295.9" y="129.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <rect x="321.0" y="129.0" width="21.1" height="5" rx="1.5" fill="#C5BDAF" fill-opacity="0.55"/>
+    <path d="M346.1 104.0H371.2" stroke="#7E776B" stroke-opacity=".7" stroke-width="1" stroke-dasharray="2 3"/>
+    <circle cx="417.7" cy="81.6" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="419.6" cy="84.4" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="409.2" cy="84.6" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="416.3" cy="89.6" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="407.9" cy="82.3" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="399.6" cy="94.6" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="425.8" cy="82.6" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="407.9" cy="75.5" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="413.9" cy="85.2" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="490.8" cy="98.9" r="2.1" fill="#8FB9A0" fill-opacity="0.9"/>
+    <circle cx="463.4" cy="80.9" r="2.1" fill="#8FB9A0" fill-opacity="0.9"/>
+    <circle cx="483.7" cy="98.6" r="2.1" fill="#8FB9A0" fill-opacity="0.9"/>
+    <circle cx="455.7" cy="98.5" r="2.1" fill="#8FB9A0" fill-opacity="0.9"/>
+    <circle cx="455.7" cy="120.7" r="2.1" fill="#8FB9A0" fill-opacity="0.9"/>
+    <circle cx="481.0" cy="101.1" r="2.1" fill="#8FB9A0" fill-opacity="0.9"/>
+    <circle cx="469.0" cy="82.9" r="2.1" fill="#8FB9A0" fill-opacity="0.9"/>
+    <circle cx="469.4" cy="86.8" r="2.1" fill="#8FB9A0" fill-opacity="0.9"/>
+    <circle cx="476.1" cy="82.9" r="2.1" fill="#8FB9A0" fill-opacity="0.9"/>
+    <circle cx="422.4" cy="139.1" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="446.1" cy="122.9" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="416.6" cy="136.8" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="438.8" cy="124.3" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="424.4" cy="126.2" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="419.8" cy="126.3" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="442.4" cy="135.5" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="449.9" cy="130.3" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <circle cx="429.6" cy="124.3" r="2.1" fill="#C5BDAF" fill-opacity="0.45"/>
+    <path d="M464.0 115.2L455.7 120.7" stroke="#8FB9A0" stroke-opacity=".7" stroke-width="1"/>
+    <path d="M464.0 115.2L455.7 98.5" stroke="#8FB9A0" stroke-opacity=".7" stroke-width="1"/>
+    <path d="M464.0 115.2L481.0 101.1" stroke="#8FB9A0" stroke-opacity=".7" stroke-width="1"/>
+    <path d="M464.0 115.2L483.7 98.6" stroke="#8FB9A0" stroke-opacity=".7" stroke-width="1"/>
+    <circle cx="464.0" cy="115.2" r="4" fill="#F2A93B"/>
+    <path d="M511.7 104.0H536.8" stroke="#7E776B" stroke-opacity=".7" stroke-width="1" stroke-dasharray="2 3"/>
+    <path d="M548.8 80.5H588.0Q596.0 80.5 596.0 88.5V119.5Q596.0 127.5 588.0 127.5H556.8L546.8 136.5L548.8 126.5Q540.8 125.5 540.8 118.5V88.5Q540.8 80.5 548.8 80.5Z" stroke="#F3EEE4" stroke-opacity=".75" stroke-width="1.2"/>
+    <path d="M549.8 94.6H576.6" stroke="#F2A93B" stroke-opacity="0.95" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M549.8 104.0H569.1" stroke="#C5BDAF" stroke-opacity="0.55" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M549.8 113.4H572.9" stroke="#C5BDAF" stroke-opacity="0.55" stroke-width="2.4" stroke-linecap="round"/>
+    <text x="44.0" y="164.0" fill="#7E776B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.6">RAW</text>
+    <text x="220.6" y="164.0" fill="#7E776B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.6">CLEAN</text>
+    <text x="375.2" y="164.0" fill="#7E776B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.6">INDEX</text>
+    <text x="540.8" y="164.0" fill="#7E776B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.6">ANSWER</text>
+    <path d="M44 200H596" stroke="#2A2620"/>
+    <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+      <text x="42" y="274" fill="#F3EEE4" font-size="64" font-weight="650" letter-spacing="-2">Nameth</text>
+      <text x="42" y="344" fill="#F3EEE4" font-size="64" font-weight="650" letter-spacing="-2">Wongmongkol</text>
+      <text x="44" y="388" fill="#C5BDAF" font-size="24">Data &amp; AI engineering <tspan fill="#7E776B">/</tspan> full-stack</text>
+      <text x="44" y="426" fill="#7E776B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.5">CS STUDENT · SRIPATUM UNIVERSITY</text>
     </g>
   </g>
 </svg>
