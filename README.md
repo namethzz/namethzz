@@ -33,12 +33,14 @@
 
 ## How I work / วิธีทำงานของผม
 
-- **Check the data before trusting it.** In the crop chatbot, some CSV files sat in the wrong province folder. I read the province from the file name first and fall back to the folder.<br>
-  **ตรวจข้อมูลก่อนเชื่อ** ไฟล์ CSV บางไฟล์ของแชตบอตพืชอยู่ผิดโฟลเดอร์จังหวัด ผมจึงอ่านจังหวัดจากชื่อไฟล์ก่อน ถ้าไม่มีค่อยดูจากชื่อโฟลเดอร์
-- **Label what isn't real yet.** THAI TAY shows a "demo data" tag on every price, estimate, and shared link until the forecast model exists.<br>
-  **บอกผู้ใช้ว่าอะไรยังไม่จริง** THAI TAY ติดป้าย "ข้อมูลตัวอย่าง" บนทุกราคา ใบประมาณ และลิงก์ที่ส่งต่อ จนกว่าโมเดลพยากรณ์จะเสร็จ
-- **Audit my own old code.** I re-read my year-2 e-commerce project, wrote down 20 mistakes, and fixed the 11 that touched security or data correctness.<br>
-  **กลับไปตรวจงานเก่าของตัวเอง** ผมอ่านโค้ดร้านค้าออนไลน์ที่ทำตอนปี 2 ใหม่ จดข้อผิดพลาดได้ 20 ข้อ แล้วแก้ 11 ข้อที่กระทบความปลอดภัยหรือความถูกต้องของข้อมูล
+- **Understand the problem before writing code.** I talk to the people who will use the software, write down what they need, and keep asking why until I reach the cause.<br>
+  **เข้าใจปัญหาก่อนเขียนโค้ด** ผมคุยกับคนที่จะใช้งานจริง จดว่าเขาต้องการอะไร แล้วถามต่อจนเจอต้นเหตุของปัญหา
+- **Trace problems to the source.** In the crop chatbot, some CSV files sat in the wrong province folder. I read the province from the file name first and fall back to the folder.<br>
+  **ตามหาต้นเหตุ** ไฟล์ CSV บางไฟล์ของแชตบอตพืชอยู่ผิดโฟลเดอร์จังหวัด ผมจึงอ่านจังหวัดจากชื่อไฟล์ก่อน ถ้าไม่มีค่อยดูจากชื่อโฟลเดอร์
+- **Design for the customer.** Screens they understand at a glance, pages that load fast, and nothing that misleads them. THAI TAY shows a "demo data" tag on every price, estimate, and shared link until the forecast model exists.<br>
+  **ออกแบบให้ลูกค้าใช้ได้จริง** หน้าจอที่ดูแล้วเข้าใจทันที โหลดเร็ว และไม่ทำให้ผู้ใช้เข้าใจผิด THAI TAY ติดป้าย "ข้อมูลตัวอย่าง" บนทุกราคา ใบประมาณ และลิงก์ที่ส่งต่อ จนกว่าโมเดลพยากรณ์จะเสร็จ
+- **Check security and the details.** I re-read my year-2 e-commerce project, wrote down 20 mistakes, and fixed the 11 that touched security or data correctness.<br>
+  **ใส่ใจความปลอดภัยและรายละเอียด** ผมอ่านโค้ดร้านค้าออนไลน์ที่ทำตอนปี 2 ใหม่ จดข้อผิดพลาดได้ 20 ข้อ แล้วแก้ 11 ข้อที่กระทบความปลอดภัยหรือความถูกต้องของข้อมูล
 
 ## Projects / โปรเจกต์
 
